@@ -1,0 +1,15 @@
+# Digitized from Steinhoegl et al., Phys. Rev. B 66, 075414 (2002), Fig. 3
+# Cu damascene wires, height h = 230 nm, T = 295 K, Ta-based liner included in cross-section
+# Axis calibration: x_px->w: w[nm]=100*10^((px-207)/169.5); y_px->rho: rho[uOhm.cm]=5-(py-51.5)/51.667
+# Calibration verified against all 8 x minor ticks (40-90 nm), 8 ticks (200-900 nm) and 4 y major ticks to <1 px
+# sigma_up/sigma_dn from error-bar cap positions; digitization uncertainty +-1 px = +-0.019 uOhm.cm, +-1.4% in w
+w_nm,rho_uOhm_cm,sigma_up,sigma_dn,px,py
+43.2,4.613,0.339,0.358,145.25,71.50
+63.2,3.723,0.358,0.223,173.25,117.50
+87.3,3.500,0.213,0.406,197.00,129.00
+107.0,3.171,0.155,0.387,212.00,146.00
+138.5,2.842,0.290,0.194,231.00,163.00
+178.1,2.760,0.198,0.266,249.50,167.25
+259.7,2.639,0.184,0.281,277.25,173.50
+490.1,2.339,0.155,0.329,324.00,189.00
+736.6,2.358,0.135,0.135,354.00,188.00

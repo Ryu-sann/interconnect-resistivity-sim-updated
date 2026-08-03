@@ -1,0 +1,19 @@
+# Model-curve samples digitized from the same figure (dash clusters; band +-3 px)
+# curve: solid = combined model, dashdot = MS model, dashed = FS model, dotted = bulk line
+# entries flagged unreliable=1 are near steep gradients, symbol exclusions, or callout lines
+curve,w_nm,rho_uOhm_cm,unreliable
+dotted,any,1.681,0
+dashdot,79.4,3.239,0
+dashdot,300.5,2.377,0
+dashdot,433.7,2.368,0
+dashdot,609.1,2.377,0
+dashed,79.4,2.087,0
+dashed,300.5,2.039,0
+dashed,433.7,2.019,0
+dashed,609.1,2.010,0
+solid,40.2,4.613,1
+solid,52.8,4.410,0
+solid,77.9,3.635,1
+solid,300.5,2.523,0
+solid,433.7,2.503,0
+solid,609.1,2.484,0

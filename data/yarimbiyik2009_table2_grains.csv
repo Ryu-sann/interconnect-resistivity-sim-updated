@@ -1,0 +1,9 @@
+# Yarimbiyik et al. (2009), Table 2: measured lateral grain size vs film thickness
+# GS_xy = 0.58 * GS_z reported by the authors
+t_nm,grain_size_xy_nm
+10.0,5.0
+24.7,10.0
+40.4,13.0
+69.0,22.0
+96.6,30.0
+149.9,40.0

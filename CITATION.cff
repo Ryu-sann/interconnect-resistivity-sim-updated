@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below, and cite the original data sources listed in docs/report.md."
+title: "Cu interconnect size-effect study: data, models, and validation"
+type: software
+authors:
+  - family-names: "Tago"
+    given-names: "Ryunosuke"
+    affiliation: "SUNY Geneseo, Department of Physics and Astronomy"
+date-released: "2026-07-07"
+version: "1.0.0"
+license: MIT
+keywords:
+  - copper interconnects
+  - size effect
+  - Fuchs-Sondheimer
+  - Mayadas-Shatzkes
+  - resistivity

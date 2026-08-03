@@ -1,0 +1,12 @@
+# Yarimbiyik et al., Microelectron. Reliab. 49, 127 (2009), Table 1
+# Evaporated Cu films on Pyrex with 3 nm Cr adhesion layer; thickness corrected for surface oxidation
+# rho = Rs * t at 28.6 C (301.75 K)
+t_nm,rho_uOhm_cm
+9.2,12.8
+21.1,7.71
+34.0,5.48
+42.2,4.80
+50.7,4.48
+70.1,3.88
+111.0,3.29
+166.1,2.98

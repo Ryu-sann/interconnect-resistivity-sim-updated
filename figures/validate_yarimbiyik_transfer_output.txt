@@ -1,0 +1,9 @@
+Yarimbiyik literature parameter
+R = 0.320
+RMSE = 0.537 uOhm.cm
+mean relative error = 7.4 %
+
+Steinhogl parameter transfer
+R = 0.425
+RMSE = 2.821 uOhm.cm
+mean relative error = 38.0 %
